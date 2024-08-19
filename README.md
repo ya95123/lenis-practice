@@ -1,2 +1,2 @@
-# lenis-practice-
+# lenis-practice
 lenis practice
